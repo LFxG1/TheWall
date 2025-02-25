@@ -1,1 +1,0 @@
-export { FindFriendsGet } from "./FindFriendsGet";

@@ -1,1 +1,0 @@
-export { MeetAwesomePeople } from "./MeetAwesomePeople";
